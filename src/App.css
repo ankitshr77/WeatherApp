@@ -1,0 +1,69 @@
+body{
+  background-color: rgb(58, 52, 52);
+  text-align: center;
+  margin-top: 80px;
+}
+
+.inputbox{
+  height: 35px;
+  width: 350px;
+  margin-left: 20px;
+  border-radius: 6px;
+}
+
+.topbtn{
+  margin-left: 10px;
+  margin-bottom: 8px;
+}
+
+.midbox{
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  margin-top: 20px;
+  border-radius: 10px;
+  position: absolute;
+  left: 400px;
+}
+
+.icon1{
+  font-size: 80px;
+  margin-top: 20px;
+}
+
+.mainicon{
+  /* background-color: red; */
+  height: 120px;
+  width: 100%;
+  
+}
+
+.midbox2{
+  /* background-color: rgb(77, 47, 47); */
+  width: 550px;
+  height: 120px;
+  position: relative;
+  right: 20px; 
+  padding-right: 13px;
+}
+
+.column1{
+  background-color: black;
+  margin-left: 5px;
+  position: relative;
+  left: 2px;
+  height: 100px;
+  
+}
+
+.column2{
+  background-color: rgb(137, 184, 137);
+  
+}
+
+.lasticon{
+  font-size: 25px;
+}
+
+
+
